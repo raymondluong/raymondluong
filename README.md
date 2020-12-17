@@ -2,10 +2,12 @@
 
 I live in beautiful San Francisco 🌉 and I currently work as a Software Engineer <a href="http://frontapp.com/" target="_blank">@Front</a>. I'm mission-driven and interested in using technology to solve problems and improve the lives of others. I take a human-centered and pragmatic approach to software development and I believe in iteration and feedback over perfection. I have experience across the stack, but most enjoy tinkering on the front end ✨
 
-- 🌱 I’m currently learning about design systems and WebAssembly
-- 📖 I'm currently reading A Promised Land by Barack Obama
-- 💬 Ask me about athleisure
-- 😄 Pronouns: he/him/his
+I'm currently...
+- 🌱 learning about design systems and WebAssembly
+- 📖 reading A Promised Land by Barack Obama
+- 🎶 listening to Bon Iver and Gareth Emery
+
+Pronouns: he/him/his
 
 ## 💻 Technologies
 <p>
