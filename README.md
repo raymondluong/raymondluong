@@ -3,8 +3,8 @@
 I live in beautiful San Francisco 🌉 and I currently work as a Software Engineer <a href="http://frontapp.com/" target="_blank">@Front</a>. I'm mission-driven and interested in using technology to solve problems and improve the lives of others. I take a human-centered and pragmatic approach to software development and I believe in iteration and feedback over perfection. I have experience across the stack, but most enjoy tinkering on the front end ✨
 
 I'm currently...
-- 🌱 learning about design systems and WebAssembly
-- 📖 reading A Promised Land by Barack Obama
+- 🌱 learning about design systems
+- 📖 reading Cleanness by Garth Greenwell
 - 🎶 listening to Bon Iver and Gareth Emery
 
 Pronouns: he/him/his
