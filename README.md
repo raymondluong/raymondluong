@@ -4,7 +4,7 @@ I live in beautiful San Francisco 🌉 and I currently work as a Software Engine
 
 I'm currently...
 - 🌱 learning about design systems
-- 📖 reading Cleanness by Garth Greenwell
+- 📖 reading Murakami
 - 🎶 listening to Bon Iver and Gareth Emery
 
 Pronouns: he/him/his
