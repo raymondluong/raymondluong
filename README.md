@@ -1,13 +1,6 @@
-## 👋 Hi there, I'm Raymond
+## 👋 Hi! I'm Raymond
 
-I live in beautiful San Francisco 🌉 and I work as a Front End Platform Engineer <a href="https://gem.com/" target="_blank">@Gem</a> where I lead development of our internal design system and front end tooling. I'm mission-driven and interested in using technology to solve problems and improve the lives of others. I take a human-centered and pragmatic approach to software development and I believe in iteration and feedback over perfection. I have experience across the stack, but most enjoy tinkering on the front end ✨
-
-I'm currently...
-- 📖 reading Project Hail Mary
-- 🎶 listening to Bon Iver and Gareth Emery
-- 🏞️ planning my next national park trip
-
-Pronouns: he/him/his
+I'm a Front End Engineer interested in design systems, developer productivity + tooling, accessibility, TypeScript, CSS, and UI/UX design. Currently based in San Francisco. 🌉
 
 ## 💻 Technologies
 <p>
@@ -25,7 +18,6 @@ Pronouns: he/him/his
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/raymondluong/)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://www.twitter.com/luongraymond)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/instaraymond)
 
 
 ## 📈 Github stats
