@@ -1,4 +1,4 @@
-## 👋 Hi! I'm Raymond
+## 👋 Hi, I'm Raymond
 
 I'm a Front End Engineer interested in design systems, developer productivity + tooling, accessibility, TypeScript, CSS, and UI/UX design. Currently based in San Francisco. 🌉
 
